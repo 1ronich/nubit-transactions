@@ -1,0 +1,62 @@
+{
+
+  "name": "nubit-farmer",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "main - Copy.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "author": "",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "@2captcha/captcha-solver": "^1.0.4",
+
+    "@cosmjs/launchpad": "^0.27.1",
+
+    "@cosmjs/proto-signing": "^0.32.4",
+
+    "@cosmjs/stargate": "^0.32.4",
+
+    "2captcha": "^3.0.5-2",
+
+    "cosmjs-types": "^0.9.0",
+
+    "dotenv": "^16.4.5",
+
+    "jquery": "^3.7.1",
+
+    "puppeteer": "^22.13.0",
+
+    "puppeteer-extra": "^3.3.6",
+
+    "puppeteer-extra-plugin-proxy": "^1.0.2",
+
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+
+    "puppeteer-real-browser": "^1.2.29",
+
+    "request": "^2.88.2",
+
+    "selenium-webdriver": "^4.22.0"
+
+  },
+
+  "devDependencies": {
+
+    "electron": "^31.2.1"
+
+  }
+
+}
+
