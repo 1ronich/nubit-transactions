@@ -1,0 +1,1 @@
+js project that gets funds from the nubit faucet using puppeteer stealth (bypassing the cloudlfare captcha) and then using these funds the script can send back and forth different NUB amounts to simulate real activity in the hopes of getting an airdrop in the future
